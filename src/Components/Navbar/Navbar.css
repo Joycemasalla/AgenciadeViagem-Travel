@@ -103,10 +103,7 @@ a:hover {
   text-decoration: none;
 }
 
-.btn a:hover {
-  color: var(--branco);
- 
-}
+
 
 .btn:hover {
   color: var(--branco) !important;
